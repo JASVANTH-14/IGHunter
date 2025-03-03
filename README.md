@@ -21,7 +21,7 @@ This tool helps to extract public information from Instagram profiles using the 
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/jasvanth-cyber/IGHunter.git
+   git clone https://github.com/JASVANTH-14/IGHunter.git
    cd IGHunter
    ```
 
